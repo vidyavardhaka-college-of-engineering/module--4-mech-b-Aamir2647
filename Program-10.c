@@ -20,5 +20,5 @@ int main()
       {
 	 //print the array elements
 	  }
-	   return 0;
+	   return (0);
 }
